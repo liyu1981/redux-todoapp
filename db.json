@@ -9,6 +9,11 @@
       "id": 2,
       "text": "go to gym",
       "completed": false
+    },
+    {
+      "text": "hello, world",
+      "completed": false,
+      "id": 3
     }
   ]
 }
